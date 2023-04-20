@@ -1,0 +1,1 @@
+# frinventory
